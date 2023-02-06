@@ -2,7 +2,7 @@
 
 This is a simple project that will help me build my skill in HTML programming language by building a webpage to show a favorit food recipes. 
 
-<h2>What you will learn here</h2>
+<h2>What I'm learning here</h2>
 
 <ul>
 <li>Basic HTML structure and syntax.</li>
