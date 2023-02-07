@@ -1,0 +1,31 @@
+#left-h1{
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+li{
+list-style: none;
+font-size: 1em;
+}
+
+li img{
+    width: 650px;
+
+}
+
+h2{
+    margin-left: 35px;
+}
+
+a{
+    color:blue;
+    margin-left: 35px;
+}
+
+a:link{
+    color:orange;
+}
+
+a:visited{
+    color: green;
+}
